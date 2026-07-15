@@ -81,7 +81,7 @@ Socket 1			ID = 0
 	Core Stepping		G1
 	Technology		14 nm
 	TDP Limit		65.0 Watts
-	Tjmax			100.0 캜
+	Tjmax			100.0 째C
 	Core Speed		4389.3 MHz
 	Multiplier x Bus Speed	44.0 x 99.8 MHz
 	Base frequency (cores)	99.8 MHz
@@ -2887,7 +2887,7 @@ Display adapter 0 (primary)
 	Codename		GA106-302
 	Core family		0x176 (GA106-A)
 	Power Limit		170.0 W (current), 170.0 W (default), 180.0 W (max)
-	Thermal Limit		93.0 캜 (max), 95.0 캜 (slowdown), 98.0 캜 (shutdown)
+	Thermal Limit		93.0 째C (max), 95.0 째C (slowdown), 98.0 째C (shutdown)
 	Cores			3584
 	ROP Units		48
 	TM Units		224
